@@ -1,0 +1,37 @@
+.box1{
+     width:100vw;
+   height:100vh;
+   left:0px;
+   top:0px;
+   position: fixed;
+   background-color: black;
+   font-size:60px;
+   color: white;
+   background-image: url(swim1.jpg);
+    background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+
+}
+.box2{
+    width: 270px;
+    height: 70px;
+    background-color: rgb(18, 106, 184);
+    margin-top: 50PX;
+    margin-left: 60px;
+    display:inline-block;
+     border:1px solid black;
+     margin:100px;
+}
+.box3{
+    width: 270px;
+    height: 70px;
+    background-color: rgb(18, 106, 184);
+    margin-top: 50px;
+    margin-left: 60px;
+    display:inline-block;
+     border:1px solid black;
+     margin:100px;
+
+}
